@@ -17,21 +17,25 @@
 
 ### Link
 
-\[link\]\(README.md\) [link](README.md)
+\[link\]\(README.md\) 
+
+[link](README.md)
 
 ### Image
 
-\!\[\]\(\) ![](img.jpg)
+\!\[\]\(\)
+
+![](img.jpg)
 
 ### Lists
 
 \* unordered list 1
 
-   \* unordered sublist 1
+&nbsp;&nbsp;\* unordered sublist 1
+
+&nbsp;&nbsp;\* unordered sublist 2
    
-   \* unordered sublist 1
-   
-   \* unordered sublist 1
+&nbsp;&nbsp;\* unordered sublist 3
 
 \* unordered list 2
 
@@ -54,6 +58,34 @@
 1. ordered list 2
 1. ordered list 3
 
+### Quotes
+
+\< This is a quote
+\< - zeddit
+
+< This is a quote
+< - zeddit
 
 
+### Codes
 
+In line codes: \`print "zeddit"\`
+
+In line codes: `print "zeddit"`
+
+block codes:
+
+\`\`\`typing language for highlight use
+
+\#\#This is code block;
+
+print "zeddit"
+
+\`\`\`
+
+block codes:
+
+```
+#This is code block;
+print "zeddit"
+```
