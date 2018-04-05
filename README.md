@@ -27,6 +27,25 @@
 
 ![](img.jpg)
 
+
+\!\[\]\(\)
+\*caption\*
+
+![](img.jpg)
+*caption*
+
+using table for caption display.
+
+\|\!\[\]\(\)\|
+
+\|\-\-\-\|
+
+\|*caption*\|
+
+|![](img.jpg)|
+|---|
+|*caption*|
+
 ### Lists
 
 \* unordered list 1
@@ -85,7 +104,7 @@ print "zeddit"
 
 block codes:
 
-```
+```python
 #This is code block;
 print "zeddit"
 ```
