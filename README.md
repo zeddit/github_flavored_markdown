@@ -109,3 +109,47 @@ block codes:
 #This is code block;
 print "zeddit"
 ```
+
+## Additional Elements
+
+### Task Lists
+
+```
+- [x] task completed 1
+- [x] task completed 2
+- [ ] task 1
+- [ ] task 2
+```
+
+- [x] task completed 1
+- [x] task completed 2
+- [ ] task 1
+- [ ] task 2
+
+### Tables
+
+```
+Header 1 | Header 2 | Header 3
+:--- | :---: | ---:
+left aligned | center aligned | right aligned 
+```
+at least three hyphens needed to divide headers and contents.
+
+Header 1 | Header 2 | Header 3
+:--- | :---: | ---:
+left aligned | center aligned | right aligned 
+
+### Table of Content
+
+Using github's automatically generated section links, e.g. \#Tables to create ToC.
+
+```
+* [Tables](#tables)
+* [Task lists](#task-lists)
+* [Basic Elements](#basic-elements)
+```
+
+* [Tables](#tables)
+* [Task lists](#task-lists)
+* [Basic Elements](#basic-elements)
+
