@@ -158,11 +158,11 @@ Using github's automatically generated section links, e.g. \#Tables to create To
 ### Latex Supported 
 
 ```
-![](http://latex.codecogs.com/gif.latex?\\e^{ix}=cosx+isinx)
+![](http://latex.codecogs.com/gif.latex?e^{ix}=cosx+isinx)
 ```
 Notice! Escaping back slash by `\\`
 
-![](http://latex.codecogs.com/gif.latex?\\e^{ix}=cosx+isinx)
+![](http://latex.codecogs.com/gif.latex?e^{ix}=cosx+isinx)
 
 ### some UMLs
 
