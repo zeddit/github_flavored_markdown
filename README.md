@@ -153,3 +153,18 @@ Using github's automatically generated section links, e.g. \#Tables to create To
 * [Task lists](#task-lists)
 * [Basic Elements](#basic-elements)
 
+## Extented Elements 
+
+### Latex Supported 
+
+```
+![](http://latex.codecogs.com/gif.latex?\\e^{ix}=cosx+isinx)
+```
+Notice! Escaping back slash by `\\`
+
+![](http://latex.codecogs.com/gif.latex?\\e^{ix}=cosx+isinx)
+
+### some UMLs
+
+TODO:
+
